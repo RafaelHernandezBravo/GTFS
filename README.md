@@ -1,0 +1,1 @@
+Este repositorio contiene un script con el que empecé a desenvolverme como principiante en el mundo de la programación. El leguaje utilizado fue R y los datos que estuve visualizando, manipulando y estructurando se encuantran contenidos en formato GTFS (datos de transporte de google)
